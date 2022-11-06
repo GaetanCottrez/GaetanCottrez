@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaetancottrez" alt="gaetancottrez" /></a> </p>
 
-- 🔭 I’m currently working on [PPYARNS](phildar.fr)
+- 🔭 I’m currently working on [PPYARNS](https://phildar.fr)
 
 - 🌱 I’m currently learning **Mongo Realm**
 
