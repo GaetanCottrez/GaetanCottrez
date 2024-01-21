@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaëtan</h1>
 
-<a align="center" href="https://app.daily.dev/gaetancottrez"><img align="center" src="https://api.daily.dev/devcards/f47283a2929f45d7b4a12c61b5723c0e.png?r=qcz" width="400" alt="Gaëtan's Dev Card"/></a>
+<h2 align="center"><a align="center" href="https://app.daily.dev/gaetancottrez"><img align="center" src="https://api.daily.dev/devcards/f47283a2929f45d7b4a12c61b5723c0e.png?r=qcz" width="400" alt="Gaëtan's Dev Card"/></a></h2>
 
 <h3 align="center">The creator of the blog Apprendre La Programmation and passionate about code</h3>
 
