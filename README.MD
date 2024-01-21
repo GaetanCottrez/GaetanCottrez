@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaëtan</h1>
+
+<a href="https://app.daily.dev/gaetancottrez"><img src="https://api.daily.dev/devcards/f47283a2929f45d7b4a12c61b5723c0e.png?r=qcz" width="400" alt="Gaëtan's Dev Card"/></a>
+
 <h3 align="center">The creator of the blog Apprendre La Programmation and passionate about code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaetancottrez&label=Profile%20views&color=0e75b6&style=flat" alt="gaetancottrez" /> </p>
