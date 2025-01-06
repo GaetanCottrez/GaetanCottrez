@@ -50,7 +50,7 @@ I am a passionate advocate and proponent of Hexagonal Architecture.</h3>**
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<img src='https://codermemes.vercel.app/' style="height: 400px;"/>
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
